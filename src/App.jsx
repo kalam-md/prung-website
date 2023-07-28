@@ -5,9 +5,9 @@ import About from "./pages/about"
 import Contact from "./pages/contact"
 import Museum from "./pages/museum"
 import ProductIndex from "./pages/product/productIndex"
-import ProductJaket from "./pages/product/ProductJaket"
-import ProductBaju from "./pages/product/ProductBaju"
-import ProductCelana from "./pages/product/ProductCelana"
+import ProductJaket from "./pages/product/productJaket"
+import ProductBaju from "./pages/product/productBaju"
+import ProductCelana from "./pages/product/productCelana"
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 export default function App() {
