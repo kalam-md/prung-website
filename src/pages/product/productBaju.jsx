@@ -11,7 +11,7 @@ export default function ProductBaju() {
         </div>
       </div>
 
-      <div className="px-5 md:px-[5rem] py-6 bg-[#D9D9D9] grid grid-cols-4 gap-4">
+      <div className="px-5 md:px-[5rem] py-6 bg-[#D9D9D9] grid grid-cols-4 place-items-center gap-4">
         <img src={Baju1} alt="museum" className="col-span-4"/>
         <img src={Baju2} alt="museum" className="col-span-4"/>
       </div>
