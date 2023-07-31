@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <>
-      <div className="h-screen bg-cover bg-center flex justify-center items-center" style={{backgroundImage: `url(${HeaderImg})`}}>
+      <div className="h-screen xl:h-[800px] bg-cover bg-center flex justify-center items-center" style={{backgroundImage: `url(${HeaderImg})`}}>
         <p className="text-[32px] font-bold text-center text-white">A casual choice <br />that is just for you</p>
       </div>
 

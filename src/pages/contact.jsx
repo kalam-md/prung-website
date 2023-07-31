@@ -12,7 +12,7 @@ export default function Contact() {
 
   return (
     <>
-      <div className="h-[250px] md:h-screen bg-cover bg-center flex justify-center items-center" style={{backgroundImage: `url(${HeaderImg})`}}></div>
+      <div className="h-[250px] xl:h-[800px] md:h-screen bg-cover bg-center flex justify-center items-center" style={{backgroundImage: `url(${HeaderImg})`}}></div>
 
       <div className="flex-col justify-center items-center pt-5 md:pt-10 pb-8 md:pb-16 px-5 md:px-[14rem] bg-gray-200">
         <p className="text-[24px] md:text-[32px] font-bold text-center">Contact</p>

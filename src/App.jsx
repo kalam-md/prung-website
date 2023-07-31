@@ -13,7 +13,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 export default function App() {
   return (
     <>
-      <div className="font-body">
+      <div className="font-body max-w-screen-2xl xl:mx-auto">
 
         <Router>
           <Navbar />

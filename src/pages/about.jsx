@@ -14,7 +14,7 @@ export default function About() {
 
   return (
     <>
-      <div className="h-[110vh] bg-cover bg-center flex justify-start items-center" style={{backgroundImage: `url(${HeaderImg})`}}>
+      <div className="h-[110vh] xl:h-[800px] bg-cover bg-center flex justify-start items-center" style={{backgroundImage: `url(${HeaderImg})`}}>
         <div className="px-5 md:px-[5rem] text-white w-[600px]">
           <p className="text-[32px] font-bold">About</p>
           <p className="text-[16px] font-light my-5 md:my-10">Prung Terraceswear adalah merek pakaian yang mengambil inspirasi dari bahasa tradisional warga Jawa Barat. Kata &ldquo;PRUNG&ldquo; sendiri dalam bahasa Jawa Barat memiliki arti &ldquo;kecap panganteur&ldquo; atau kata pengantar yang digunakan untuk ajakan atau memulai suatu kegiatan. Kata tersebut digunakan untuk memberi semangat dan mempengaruhi orang lain untuk segera melakukannya.</p>
